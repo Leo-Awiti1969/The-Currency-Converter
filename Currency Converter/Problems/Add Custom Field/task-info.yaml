@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    from django.contrib import admin
+
+
+    class FilmAdmin(admin.ModelAdmin):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7877#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 11 Mar 2021 12:56:12 UTC
+record: -1
